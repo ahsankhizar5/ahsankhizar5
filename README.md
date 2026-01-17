@@ -112,16 +112,33 @@ Complete series of web projects including:
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
+<a href="https://github.com/ahsankhizar5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/ahsankhizar5)
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsankhizar5&theme=tokyonight&hide_border=true)](https://github.com/ahsankhizar5)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsankhizar5&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ahsankhizar5)
+<br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ahsankhizar5)
+<img src="https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake.svg">
+</picture>
 
 </div>
 
