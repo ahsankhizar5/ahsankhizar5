@@ -113,13 +113,13 @@ Complete series of web projects including:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ahsankhizar5&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahsankhizar5&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=ahsankhizar5&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhizar5&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ahsankhizar5&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -129,7 +129,7 @@ Complete series of web projects including:
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
