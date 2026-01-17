@@ -115,7 +115,7 @@ const ahsankhizar = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsankhizar5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsankhizar5)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahsankhizar5)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahsankhizar5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ahsankhizar.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsankhizar5@gmail.com)
 
@@ -135,7 +135,7 @@ const ahsankhizar = {
 
 <div align="center">
   
-[![Ahsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsankhizar5&theme=github-compact)](https://github.com/ahsankhizar5)
+[![Ahsan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahsankhizar5&theme=radical&hide_border=true&area=true)](https://github.com/ahsankhizar5)
 
 </div>
 
