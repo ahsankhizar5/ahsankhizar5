@@ -1,193 +1,168 @@
 <div align="center">
-  
-# 👋 Hey there! I'm Ahsan Khizar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;3D+Graphics+Enthusiast;Multi-Platform+Creator;Open+to+Opportunities)](https://git.io/typing-svg)
+# Ahsan Khizar
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahsankhizar.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsankhizar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsankhizar/)
-[![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsankhizar5)
-[![Available](https://img.shields.io/badge/Available_For-Work-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+### AI Engineering | Automation Systems | Python, FastAPI, PyTorch, LLM Workflows
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahsankhizar5&color=38C2FF&style=for-the-badge&label=PROFILE+VIEWS)
+I build practical AI and automation systems that connect models, APIs, data pipelines, and user-facing workflows.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahsankhizar.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ahsankhizar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahsan%20Khizar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsankhizar/)
+[![Email](https://img.shields.io/badge/Email-ahsankhizar1075%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsankhizar1075@gmail.com)
+[![Available](https://img.shields.io/badge/Open%20To-AI%20Engineering%20%7C%20Automation-16A34A?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-Software engineer leveraging technical skills and certifications to tackle IT challenges and manage client interactions effectively. I specialize in building **multi-platform applications** — from immersive 3D web experiences to sleek mobile apps and powerful desktop tools.
+I am a final-year Software Engineering student focused on AI engineering, automation, and applied machine learning systems.
 
-```javascript
-const ahsan = {
-    code: ["TypeScript", "JavaScript", "Python", "Dart", "C++"],
-    domains: ["Web Development", "Mobile Apps", "Desktop Software", "3D Graphics", "Computer Vision"],
-    currentFocus: "Building next-gen interactive experiences with Three.js & WebGL",
-    collaboration: "Open to innovative projects and full-time opportunities"
-};
+My path started with web and software development, then moved deeper into data, ML pipelines, backend APIs, and LLM-powered workflows. That background helps me think beyond notebooks: I care about clean interfaces, testable logic, deployment paths, and systems that people can actually use.
+
+Current focus:
+
+- AI automation for engineering and business workflows
+- Backend APIs for ML and LLM-powered tools
+- Fraud/anomaly detection, image geolocation, and applied ML systems
+- Human-in-the-loop products where AI assists but does not blindly replace review
+
+```python
+ahsan = {
+    "identity": "AI engineer with a software engineering foundation",
+    "core_stack": ["Python", "FastAPI", "PyTorch", "Scikit-learn", "SQL", "GitHub"],
+    "ai_workflows": ["LLM integration", "automation agents", "model-backed APIs"],
+    "software_background": ["React", "Next.js", "TypeScript", "PostgreSQL", "Docker basics"],
+    "currently_building": "AI systems that detect, automate, and scale practical workflows"
+}
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## Featured Work
 
-<div align="center">
+### [DocuSync](https://github.com/ahsankhizar5/docusync)
 
-### 🌐 Frontend & Web
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+AI documentation automation platform for engineering teams.
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+It listens to merged GitHub pull requests, maps changed code to the right documentation area, drafts Notion updates with an LLM, and routes the result through a human review dashboard before publishing.
 
-### 🎨 3D Graphics & Visualization
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+**Stack:** FastAPI, Python, Next.js, TypeScript, PostgreSQL, Supabase, Gemini, GitHub Webhooks, Notion API
 
-### 🖥️ Desktop & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+**Why it matters:** This is the clearest public proof of AI automation, backend integration, and human-in-the-loop system design.
 
 ---
 
-## 🎯 Featured Projects
+### [VibeStream](https://github.com/ahsankhizar5/gemini-vibestream)
 
-<div align="center">
+AI-powered content strategy tool that analyzes raw video, identifies viral moments, and generates thumbnail/caption ideas using Gemini and Imagen.
 
-### 🌌 [Holographic Calculator 3D](https://github.com/ahsankhizar5/holographic-calculator-3d) ⭐
-**Next.js • Three.js • React Three Fiber • TypeScript**
+**Stack:** TypeScript, React, Vite, Google AI, Gemini, Imagen
 
-Interactive 3D calculator with stunning holographic effects and multiple themes (Holographic, Neon City, Cosmic, Matrix). Features particle systems, dynamic lighting, and smooth animations.
-
-🔗 **[Live Demo](https://holographic-calculator-3d.vercel.app/)**
+**Why it matters:** Shows LLM/multimodal product thinking, frontend execution, and AI workflow design.
 
 ---
 
-### 🖼️ [PyQt5 Image Editor](https://github.com/ahsankhizar5/pyqt5-image-editor-opencv) ⭐
-**Python • PyQt5 • OpenCV**
+### [PIGEON Reproduction](https://github.com/ahsankhizar5/PIGEON_Reproduction)
 
-Professional-grade desktop image editor with drawing tools, real-time filters, brightness/contrast control, live webcam preview, and dark/light themes.
+Research implementation for image geolocation using CLIP-style visual embeddings and S2 Geometry concepts.
 
----
+**Stack:** Python, Jupyter Notebook, CLIP, ViT-B/32, S2 Geometry
 
-### 🎨 [NFT Bazaar Flutter App](https://github.com/ahsankhizar5/NFT-Bazaar-Flutter-App)
-**Flutter • Dart**
-
-Modern NFT marketplace UI featuring 8 screens including digital wallet, cart system, search functionality, favorites management, and profile pages. Built from custom Figma design with 2000+ lines of code.
+**Why it matters:** Shows research-backed ML implementation and comfort working from model/paper concepts toward working experiments.
 
 ---
 
-### 🎓 PRODIGY Web Development Series
-**HTML • CSS • JavaScript**
+### [Customer Behavior Profiling](https://github.com/ahsankhizar5/customer-behavior-profiling)
 
-Complete series of web projects including:
-- 📄 [Responsive Landing Page](https://github.com/ahsankhizar5/PRODIGY_WD_01)
-- ⏱️ [Multi Stop Watch App](https://github.com/ahsankhizar5/PRODIGY_WD_02)
-- 🎮 [Tic-Tac-Toe Game](https://github.com/ahsankhizar5/PRODIGY_WD_03)
-- 💼 [Personal Portfolio](https://github.com/ahsankhizar5/PRODIGY_WD_04)
+Fraud and anomaly-detection system built around customer behavior profiles, clustering, anomaly detection, supervised models, and evaluation workflows.
 
-</div>
+**Stack:** Python, Pandas, Scikit-learn, clustering, anomaly detection, Streamlit, Pytest
+
+**Why it matters:** Shows a fuller ML system structure: preprocessing, profiling, models, evaluation, tests, and an app layer.
 
 ---
 
-## 📊 GitHub Analytics
+### [Fraud Detection ML Pipeline](https://github.com/ahsankhizar5/fraud-detection-ml-pipeline)
 
-<div align="center">
+Machine learning pipeline for credit-card fraud detection using class balancing, Random Forest, and evaluation metrics.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsankhizar5&theme=radical)
+**Stack:** Python, Pandas, Scikit-learn, imbalanced-learn, Random Forest
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahsankhizar5&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahsankhizar5&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ahsankhizar5&theme=radical&hide_border=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahsankhizar5&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahsankhizar5&theme=radical)
-
-</div>
+**Why it matters:** Good supporting ML proof, but the README should be tightened to avoid overclaiming perfect metrics.
 
 ---
 
-## 🐍 Contribution Snake
+### Qadri Group CAD Automation Suite
 
-<div align="center">
+Private engineering automation work for standard-part drawing workflows using SolidWorks API, C#, and WinForms.
 
-<img src="https://raw.githubusercontent.com/ahsankhizar5/ahsankhizar5/output/github-snake-dark.svg" alt="Snake Animation" />
+**Stack:** C#, WinForms, SolidWorks API, CAD automation
 
-</div>
-
----
-
-## 🎯 Current Focus
-
-```
-🚀 Exploring advanced 3D web experiences with WebGL shaders
-💡 Building innovative full-stack applications with Next.js 15
-📱 Crafting beautiful cross-platform mobile apps with Flutter
-🎓 Continuously learning and staying updated with latest tech trends
-```
+**Why it matters:** Shows real-world automation work in an industrial setting. Source and internal design files are private.
 
 ---
 
-## 🏆 Achievements Unlocked
+## Technical Stack
 
-<div align="center">
+### AI, ML, and Data
 
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark_🦈-8957E5?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO_🎯-FF6B6B?style=for-the-badge)
-![157 Contributions](https://img.shields.io/badge/Contributions-157_in_2025-00D9FF?style=for-the-badge)
-![35 Repositories](https://img.shields.io/badge/Repositories-35_Public-00FF00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-</div>
+### Backend and Automation
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Notion API](https://img.shields.io/badge/Notion%20API-000000?style=flat-square&logo=notion&logoColor=white)
 
-## 📬 Let's Connect
+### Product and Web Foundation
 
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahsankhizar.vercel.app-00C7B7?style=for-the-badge)](https://ahsankhizar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Ahsan_Khizar-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ahsankhizar/)
-[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:ahsankhizar1075@gmail.com)
-
-### 💼 Currently Available for Work
-
-**Interested in:** Full-Stack Development • 3D Web Development • Mobile App Development • Freelance Projects
-
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
-<div align="center">
-  
-### ⚡ Fun Fact
-*I turn coffee ☕ into code 💻 and ideas into immersive 3D experiences 🌌*
+## Journey
+
+My earlier work in web development, frontend projects, mobile UI, and desktop tools is still part of the story. It gave me the software base to build usable AI products instead of isolated experiments.
+
+The current direction is sharper: AI systems, automation workflows, backend APIs, and ML projects with clear evaluation and integration paths.
 
 ---
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out.** 🚀
+## Repository Map
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+| Area | Representative repositories |
+| --- | --- |
+| AI automation | [docusync](https://github.com/ahsankhizar5/docusync), [gemini-vibestream](https://github.com/ahsankhizar5/gemini-vibestream) |
+| ML and data systems | [customer-behavior-profiling](https://github.com/ahsankhizar5/customer-behavior-profiling), [fraud-detection-ml-pipeline](https://github.com/ahsankhizar5/fraud-detection-ml-pipeline), [PIGEON_Reproduction](https://github.com/ahsankhizar5/PIGEON_Reproduction) |
+| Software engineering foundation | [Private-Freelance-Marketplace-SaaS](https://github.com/ahsankhizar5/Private-Freelance-Marketplace-SaaS), [pyqt5-image-editor-opencv](https://github.com/ahsankhizar5/pyqt5-image-editor-opencv) |
+| Web/course archive | React, HTML/CSS, Coursera, and internship practice projects |
 
-</div>
+---
+
+## What I Am Open To
+
+- AI engineering internships and junior roles
+- AI automation and backend API projects
+- ML/data projects with practical deployment paths
+- Contract/freelance work around AI tools, automation, and technical prototypes
+
+---
+
+## Contact
+
+- Portfolio: [ahsankhizar.vercel.app](https://ahsankhizar.vercel.app/)
+- LinkedIn: [linkedin.com/in/ahsankhizar](https://www.linkedin.com/in/ahsankhizar/)
+- Email: [ahsankhizar1075@gmail.com](mailto:ahsankhizar1075@gmail.com)
